@@ -1,4 +1,4 @@
-// Criar função para mostrar os números primos com
+// Criar função para mostrar os números primos
 
 exibirNumerosPrimos(11);
 
